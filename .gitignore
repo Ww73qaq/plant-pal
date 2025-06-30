@@ -1,0 +1,13 @@
+# Node/Vue相关
+node_modules/
+dist/
+npm-debug.log
+
+# Java相关
+target/
+*.class
+*.jar
+
+# 环境文件
+.env
+.DS_Store
